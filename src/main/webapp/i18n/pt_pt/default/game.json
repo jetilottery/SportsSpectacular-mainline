@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Sim",
+        "no": "Não",
+        "confirm": "Deseja som?"
+    },
+    "title": "SPORTS-SPECTACULAR",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "de {@minRTP}% a {@maxRTP}%",
+        "RTPrangeStatic": "de 85.00% a 93.00%",
+        "paybackTitle": "Pagamento esperado",
+        "paybackBody": "Para este jogo, o pagamento a longo prazo, teoricamente esperado, é {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "ajuda",
+            "name": "Sports Spectacular",
+            "payTable": "Tabela de prémios",
+            "price": "Custo",
+            "stake": "Aposta",
+            "balance": "Saldo",
+            "prizeDivision": "Divisão de Prémios",
+            "prizeValue": "Valor do Prémio",
+            "approximatePrize": "Prémios Aproximados Permanentes",
+            "oddsPerPlay": "Odds Por Jogo",
+            "overAllOdds": "Há uma hipótese geral de 1 em {oddNum} de ganhar um prémio em cada jogo",
+            "availablePrices": "Preços Disponíveis:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "ajuda",
+            "name": "Sports Spectacular",
+            "payTable": "Tabela de prémios",
+            "price": "Preço",
+            "stake": "Aposta",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Ligado",
+            "off": "Desligado",
+            "sound": "Som"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Erro:29000\n\nOcorreu um erro interno.\nsair e relançar o jogo"
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "COMO JOGAR",
+            "tutorialPage": "Comece o jogo com 6 voltas de roda. {n} Recolha as 3 Bolas, ou Símbolos de Bónus de Troféu que estão destacados sob o indicador na Roda Externa. {n} Aumente o número de Bolas ou Troféus recolhidos girando um {T01} ou {T02} na Roda do Meio. {n} Recolha todas as bolas no medidor de prémios correspondente para ganhar um prémio",
+            "tutorialPage01": "Recolha {T03} para expandir o indicador na Roda Externa para 5 Bolas. {n} Recolha {T04} para obter uma rotação extra. {n} Recolha {T05} para ganhar um prémio instantâneo. {n} Recolha {T06} no medidor de prémios para desencadear o jogo de bónus.",
+            "tutorialPage02": "O jogo de bónus começa com 3 rotações iniciais. {n} Recolha 4 ou mais {T06} na grelha para ganhar um prémio. {n} Em cada rotação, se for recolhido um {T06}, as rotações restantes são repostas a 3. {n} Continuar a girar até não haver mais rotações, ou até que todos os 16 {T06} sejam recolhidos."
+        },
+        "BONUS": "BÓNUS",
+        "totalbonuswin": "BONUS GANHO",
+        "IWText": "ESCOLHA UMA MEDALHA DE VITÓRIA INSTANTÂNEA",
+        "bonuswin": "BONUS GANHO",
+        "find": "ENCONTRAR",
+        "win": "GANHAR",
+        "demo": "TRY ",
+        "spin_Left": "SPINS\nLEFT",
+        "autospin": "AUTOSPIN",
+        "button_buy": "COMPRAR",
+        "button_try": "TENTAR",
+        "button_spin": "RODAR",
+        "button_move2moneyGame": "AVANÇAR PARA DINHEIRO",
+        "button_autoPlay": "ROTAÇÃO AUTOMÁTICA",
+        "button_playAgain": "JOGAR NOVAMENTE",
+        "button_MTMPlayAgain": "TENTAR NOVAMENTE",
+        "button_retry": "TENTAR NOVAMENTE",
+        "button_stop": "PARAR",
+        "wager": "CUSTO DO BILHETE",
+        "meter_wager": "CUSTO DO BILHETE ",
+        "balance": "SALDO ",
+        "wins": "GANHOU",
+        "wins_demo": "GANHO DEMO",
+        "message_nonWin01": "MELHOR SORTE",
+        "message_nonWin02": "PRÓXIMA VEZ",
+        "message_buyWin": "GANHO TOTAL",
+        "message_tryWin": "GANHO TOTAL DEMO",
+        "message_anonymousTryWin": "GANHO TOTAL DEMO",
+        "message_close": "OK",
+        "button_exit": "SAIR",
+        "session_timeout_warning_exit_button": "SAIR",
+        "error_button_exit": "SAIR",
+        "warning_button_continue": "CONTINUAR",
+        "warning_button_exitGame": "SAIR",
+        "warning_title": "AVISO",
+        "error_title": "ERRO",
+        "win_up_to": "GANHE ATÉ",
+        "win_up_to_mark": "!",
+        "tutorial_title": "OMO JOGAR",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Nível do Prémio",
+        "prizeDescription": "Descrição",
+        "prizeValue": "Valor do Prémio",
+        "paytableWager": "Custo do bilhete:",
+        "endBonus": "RODA PARA A ESQUERDA"
+    }
+}

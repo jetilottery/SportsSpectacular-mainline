@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Voulez-vous du son ?"
+    },
+    "title": "SPORTS SPECTACULAR",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "de {@minRTP} % à {@maxRTP} %",
+        "RTPrangeStatic": "de 85,00 % à 93,00 %",
+        "paybackTitle": "Remboursement escompté",
+        "paybackBody": "Pour ce jeu, le remboursement escompté théorique sur le long terme est de {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "COMMENT JOUER ?",
+            "name": "SPORTS SPECTACULAR",
+            "payTable": "Légende",
+            "price": "Mise",
+            "stake": "Mise",
+            "balance": "Balance",
+            "prizeDivision": "Légende",
+            "prizeValue": "Légende",
+            "approximatePrize": "Prix approximatifs restants",
+            "oddsPerPlay": "Chances par tour",
+            "overAllOdds": "Il y a globalement 1 chance sur {oddNum} de gagner un prix lors de chaque tour",
+            "availablePrices": "Points de prix disponibles :{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "COMMENT JOUER ?",
+            "name": "SPORTS SPECTACULAR",
+            "payTable": "Légende",
+            "price": "Mise",
+            "stake": "Mise",
+            "balance": "Balance"
+        },
+        "audio":
+        {
+            "on": "ON",
+            "off": "OFF",
+            "sound": "Son"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Erreur : 29000\n\nUne erreur interne s'est produite.\nQUITTEZ et relancez le jeu."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "COMMENT JOUER ?",
+            "tutorialPage": "Vous avez 6 tours à jouer. {n} Dans la portion de roue mise en évidence par les 3 flèches lumineuses, découvrez 3 ballons dans le segment extérieur. {n} Puis multipliez ces ballons en découvrant un {T01} ou un {T02} dans le segment intermédiaire. {n} Collectez autant de ballons qu’indiqué dans la légende pour remporter un gain.",
+            "tutorialPage01": "Dans la portion de roue mise en évidence par les 3 flèches lumineuses, découvrez un {T03} pour étendre la zone de sélection à 5 ballons sur le segment extérieur. {n} Découvrez un {T04} pour gagner un tour de jeu supplémentaire. {n} Découvrez un {T05} pour gagner un gain instantané. {n} Collectez 5 {T06} dans la légende pour accéder au jeu extra.",
+            "tutorialPage02": "Commencez le jeu extra avec 3 tours à jouer. {n} Collectez au moins 4 {T06} dans la légende pour remporter un gain. {n} À chaque tour joué, si un {T06} supplémentaire est collecté, le nombre de tours restants est réinitialisé à 3. {n} Continuez à jouer jusqu'à ce qu'il ne reste plus aucun tour à jouer, ou que les 16 {T06} aient été collectés."
+        },
+        "BONUS": "EXTRA",
+        "totalbonuswin": "GAIN EXTRA",
+        "IWText": "CHOISISSEZ UNE MÉDAILLE",
+        "bonuswin": "GAIN EXTRA",
+        "find": "COLLECTÉ",
+        "win": "GAIN",
+        "demo": "DÉMO ",
+        "spin_Left": "TOUR(S)\nRESTANT(S)",
+        "autospin": "TOUT RÉVÉLER",
+        "button_buy": "ACHETER",
+        "button_try": "DÉMO",
+        "button_spin": "TOURNER",
+        "button_move2moneyGame": "ACHETER",
+        "button_autoPlay": "TOUT RÉVÉLER",
+        "button_playAgain": "ACHETER",
+        "button_MTMPlayAgain": "DÉMO",
+        "button_retry": "ACHETER",
+        "button_stop": "ARRÊTER",
+        "wager": "MISE",
+        "meter_wager": "MISE",
+        "balance": "SOLDE",
+        "wins": "GAIN",
+        "wins_demo": "GAIN DÉMO",
+        "message_nonWin01": "PLUS DE CHANCE",
+        "message_nonWin02": " LA PROCHAINE FOIS!",
+        "message_buyWin": "TOTAL DES GAINS",
+        "message_tryWin": "TOTAL DES GAINS DÉMO",
+        "message_anonymousTryWin": "TOTAL DES GAINS DÉMO",
+        "message_close": "OK",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "ATTENTION",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU'À",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMMENT JOUER ?",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Légende",
+        "prizeDescription": "Description",
+        "prizeValue": "Légende",
+        "paytableWager": "Mise :",
+        "endBonus": "TOURS\nRESTANTS"
+    }
+}

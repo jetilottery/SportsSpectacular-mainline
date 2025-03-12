@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Tak",
+        "no": "Nie",
+        "confirm": "Czy włączyć dźwięk?"
+    },
+    "title": "PIŁECZKI",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "od {@minRTP}% do {@maxRTP}%",
+        "RTPrangeStatic": "od 85,00% do 93,00%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "zasady gry",
+            "name": "PIŁECZKI",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo",
+            "prizeDivision": "Stopień wygranej",
+            "prizeValue": "Wartość wygranej",
+            "approximatePrize": "Pozostało do wygrania",
+            "oddsPerPlay": "Szansa na wygraną",
+            "overAllOdds": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {oddNum}",
+            "availablePrices": "Dostępne punkty nagrody:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "zasady gry",
+            "name": "PIŁECZKI",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Wł.",
+            "off": "Wył.",
+            "sound": "Dźwięk"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Błąd: 29000\n\nWystąpił błąd wewnętrzny.\nWYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "ZASADY GRY",
+            "tutorialPage": "Rozpocznij grę z 6 obrotami koła. {n} Zbierz 3 piłki lub symbol pucharu pokazane na kole zewnętrznym. {n} Zwiększ liczbę zebranych piłek lub pucharów przez mnożnik na kole środkowym. {n} Zbierz odpowiednią liczbę piłek lub pucharów, aby wygrać.",
+            "tutorialPage01": "Zbierz {T03}, aby rozszerzyć wskaźnik koła zewnętrznego do 5 miejsc. {n} Zbierz {T04}, aby zdobyć dodatkowy obrót. {n} Zbierz {T05}, aby zdobyć natychmiastową wygraną. {n} Zbierz 5x {T06}, aby wejść do rudy bonusowej.",
+            "tutorialPage02": "Runda bonusowa {n} Runda bonusowa zaczyna się od 3 obrotów. {n} Zbierz co najmniej 4 {T06} na siatce gry, aby wygrać. {n} Po zebraniu {T06} podczas dowolnego obrotu, liczba pozostałych obrotów jest resetowana do 3. {n} Kręć dalej do wyczerpania obrotów lub zebrania 16 {T06}."
+        },
+        "BONUS": "BONUS",
+        "totalbonuswin": "WYGRANA BONUSOWA",
+        "IWText": "WYBIERZ MEDAL WYGRANEJ NATYCHMIASTOWEJ",
+        "bonuswin": "WYGRANA BONUSOWA",
+        "find": "ZNAJDŹ",
+        "win": "WYGRANA",
+        "demo": "DEMO ",
+        "spin_Left": "POZOSTAŁE\nOBROTY",
+        "autospin": "AUTO",
+        "button_buy": "PŁACĘ",
+        "button_try": "DEMO",
+        "button_spin": "OBRÓĆ",
+        "button_move2moneyGame": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_playAgain": "GRAJ PONOWNIE",
+        "button_MTMPlayAgain": "SPRÓBUJ PONOWNIE",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+        "button_stop": "STOP",
+        "wager": "OPŁATA ZA LOS",
+        "meter_wager": "OPŁATA ZA LOS ",
+        "balance": "SALDO ",
+        "wins": "WYGRANA",
+        "wins_demo": "WYGRANA DEMO",
+        "message_nonWin01": "POWODZENIA",
+        "message_nonWin02": "NASTĘPNYM RAZEM",
+        "message_buyWin": "ŁĄCZNA WYGRANA",
+        "message_tryWin": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ",
+        "message_anonymousTryWin": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ",
+        "message_close": "OK",
+        "button_exit": "WYJDŹ",
+        "session_timeout_warning_exit_button": "WYJDŹ",
+        "error_button_exit": "WYJDŹ",
+        "warning_button_continue": "KONTYNUUJ",
+        "warning_button_exitGame": "WYJDŹ",
+        "warning_title": "OSTRZEŻENIE",
+        "error_title": "BŁĄD",
+        "win_up_to": "WYGRAJ DO",
+        "win_up_to_mark": "!",
+        "tutorial_title": "ZASADY GRY",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Stopień wygranej",
+        "prizeDescription": "Opis",
+        "prizeValue": "Wartość wygranej",
+        "paytableWager": "Opłata za los:",
+        "endBonus": "POZOSTAŁE OBROTY"
+    }
+}

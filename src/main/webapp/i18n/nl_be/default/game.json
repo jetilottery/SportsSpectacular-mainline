@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+    },
+    "title": "SPORTS SPECTACULAR",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "tussen {@minRTP}% en {@maxRTP}%",
+        "RTPrangeStatic": "tussen 85,00% en 93,00%",
+        "paybackTitle": "Verwachte uitbetaling",
+        "paybackBody": "Op lange termijn bedraagt de theoretisch verwachte uitbetaling van dit spel {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "HOE SPELEN?",
+            "name": "SPORTS SPECTACULAR",
+            "payTable": "Legende",
+            "price": "Inzet",
+            "stake": "Inzet",
+            "balance": "Balans",
+            "prizeDivision": "Legende",
+            "prizeValue": "Legende",
+            "approximatePrize": "Benaderde prijs over",
+            "oddsPerPlay": "Odds per spel",
+            "overAllOdds": "Er is een algemene winkans van 1 op {oddNum} bij elk spel.",
+            "availablePrices": "Beschikbare prijzenpunten: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "HOE SPELEN?",
+            "name": "SPORTS SPECTACULAR",
+            "payTable": "Legende",
+            "price": "Inzet",
+            "stake": "Inzet",
+            "balance": "Balans"
+        },
+        "audio":
+        {
+            "on": "Aan",
+            "off": "Uit",
+            "sound": "Geluid"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fout: 29000\n\nEr is een interne fout opgetreden.\nVERLAAT het spel en start het opnieuw op."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "HOE SPELEN?",
+            "tutorialPage": "Je beschikt over 6 speelbeurten. {n} In het gedeelte van het rad dat wordt aangeduid door de 3 lichtgevende pijlen ontdek je 3 ballen in het buitenste segment van het rad. {n} Vermenigvuldig daarna deze ballen met een {T01} of een {T02} dat je ontdekt in het middelste segment van het rad. {n} Verzamel zo veel mogelijk ballen als vermeld in de legende om een bedrag te winnen.",
+            "tutorialPage01": "Ontdek een {T03} in het gedeelte van het rad dat wordt aangeduid door de 3 lichtgevende pijlen om zo de selectiezone in het buitenste segment van het rad uit te breiden tot 5 ballen. {n} Ontdek een {T04} waarmee je een extra speelbeurt wint. {n} Ontdek een {T05}, en win een onmiddellijke winst. {n} Verzamel 5 {T06} in de legende, en neem deel aan het Extra spel.",
+            "tutorialPage02": "Start het Extra spel met 3 speelbeurten. {n} Verzamel minstens 4 {T06} in de legende om een bedrag te winnen. {n} Bij iedere speelbeurt waarmee je een bijkomende {T06} verzamelt, wordt het resterende aantal beurten opnieuw ingesteld op 3. {n} Blijf spelen totdat je geen enkele beurt meer hebt, of totdat je de 16 {T06} hebt verzameld."
+        },
+        "BONUS": "EXTRA",
+        "totalbonuswin": "EXTRA WINST",
+        "IWText": "KIES EEN MEDAILLE",
+        "bonuswin": "EXTRA WINST",
+        "find": "VERZAMELD",
+        "win": "WINST",
+        "demo": "DEMO ",
+        "spin_Left": "RESTERENDE\nBEURT(EN)",
+        "autospin": "ALLES TONEN",
+        "button_buy": "KOPEN",
+        "button_try": "DEMO",
+        "button_spin": "DRAAIEN",
+        "button_move2moneyGame": "KOPEN",
+        "button_autoPlay": "ALLES TONEN",
+        "button_playAgain": "KOPEN",
+        "button_MTMPlayAgain": "DEMO",
+        "button_retry": "KOPEN",
+        "button_stop": "STOP",
+        "wager": "INZET",
+        "meter_wager": "INZET ",
+        "balance": "BALANS ",
+        "wins": "WINST",
+        "wins_demo": "DEMOWINST",
+        "message_nonWin01": "VOLGENDE KEER ",
+        "message_nonWin02": "MEER GELUK!",
+        "message_buyWin": "TOTALE WINST",
+        "message_tryWin": "TOTALE DEMOWINST",
+        "message_anonymousTryWin": "TOTALE DEMOWINST",
+        "message_close": "OK",
+        "button_exit": "VERLATEN",
+        "session_timeout_warning_exit_button": "VERLATEN",
+        "error_button_exit": "VERLATEN",
+        "warning_button_continue": "VERDER",
+        "warning_button_exitGame": "VERLATEN",
+        "warning_title": "OPGELET",
+        "error_title": "FOUT",
+        "win_up_to": "WIN TOT",
+        "win_up_to_mark": "!",
+        "tutorial_title": "HOE SPELEN?",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Legende",
+        "prizeDescription": "Hoe spelen?",
+        "prizeValue": "Legende",
+        "paytableWager": "Inzet:",
+        "endBonus": "RESTERENDE\nBEURT(EN)"
+    }
+}

@@ -1,0 +1,110 @@
+﻿{
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nei",
+        "confirm": "Ønsker du lyd?"
+    },
+    "title": "Sport Super Show",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "fra {@minRTP} % til {@maxRTP} %",
+        "RTPrangeStatic": "fra 85,00 % til 93,00 %",
+        "paybackTitle": "Oppgitt gevinstandel",
+        "paybackBody": "For dette spillet er den teoretiske, langsiktige oppgitte gevinstandelen {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "hjelp",
+            "name": "Sport Super Show",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "prizeDivision": "Premieoversikt",
+            "prizeValue": "Premieverdi",
+            "approximatePrize": "Omtrentlige gjenværende premier",
+            "oddsPerPlay": "Vinnersjanse per snurr",
+            "overAllOdds": "Det er en samlet vinnersjanse på 1 til {oddNum} for å vinne en premie på hver snurr",
+            "availablePrices": "Tilgjengelige premier:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "hjelp",
+            "name": "Sport Super Show",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "På",
+            "off": "Av",
+            "sound": "Lyd"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Feil:29000\n\nDet har oppstått en intern feil.\nAVSLUTT og start spillet på nytt."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "SLIK SPILLER DU",
+            "tutorialPage": "Start spillet med 6 forsøk på å snurre hjulet. {n} Samle de 3 ballene eller trofésymbolene som er fremhevet under indikatoren på det ytre hjulet. {n} Øk antall baller eller troféer som samles inn ved å snurre en {T01} eller {T02} på det midtre hjulet. {n} Samle alle symbolene i den korresponderende premiemåleren for å vinne en premie.",
+            "tutorialPage01": "Samle {T03} for å utvide indikatoren på det ytre hjulet til 5 baller. {n} Samle {T04} for å få et ekstra forsøk. {n} Samle {T05} for å vinne en umiddelbar premie. {n} Samle 5 {T06} i premiemåleren for å aktivere tilleggsspillet.",
+            "tutorialPage02": "Du starter tilleggsspillet med 3 forsøk. {n} Samle 4 eller flere {T06} på rutenettet for å vinne en premie. {n} Dersom en {T06} samles inn, tilbakestilles gjenværende forsøk til 3. {n} Fortsett å snurre frem til det ikke er flere forsøk igjen, eller alle 16 {T06} er samlet inn."
+        },
+        "BONUS": "TILLEGGSSPILL",
+        "totalbonuswin": "PREMIE TILLEGGSSPILL",
+        "IWText": "VELG EN UMIDDELBAR PREMIEMEDALJE",
+        "bonuswin": "PREMIE TILLEGGSSPILL",
+        "find": "FINN",
+        "win": "PREMIE",
+        "demo": "PRØVESPILL ",
+        "spin_Left": "FORSØK\nIGJEN",
+        "autospin": "AUTOSNURR",
+        "button_buy": "SPILL",
+        "button_try": "PRØVESPILL",
+        "button_spin": "SNURR",
+        "button_move2moneyGame": "ØNSKER DU Å SPILLE OM PENGEPREMIER?",
+        "button_autoPlay": "AUTOSNURR",
+        "button_playAgain": "SPILL IGJEN",
+        "button_MTMPlayAgain": "SPILL IGJEN",
+        "button_retry": "PRØV PÅ NYTT",
+        "button_stop": "STOPP",
+        "wager": "PRIS",
+        "meter_wager": "PRIS",
+        "balance": "SALDO ",
+        "wins": "PREMIE",
+        "wins_demo": "PREMIE PRØVESPILL",
+        "message_nonWin01": "\nBEKLAGER,\nINGEN PREMIE",
+        "message_nonWin02": "",
+        "message_buyWin": "GRATULERER DU VANT!",
+        "message_tryWin": "PREMIE PRØVESPILL",
+        "message_anonymousTryWin": "PREMIE PRØVESPILL",
+        "message_close": "OK",
+        "button_exit": "AVSLUTT",
+        "session_timeout_warning_exit_button": "AVSLUTT",
+        "error_button_exit": "AVSLUTT",
+        "warning_button_continue": "FORTSETT",
+        "warning_button_exitGame": "AVSLUTT",
+        "warning_title": "ADVARSEL",
+        "error_title": "FEIL",
+        "win_up_to": "TOPPREMIE",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SLIK SPILLER DU",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Premienivå",
+        "prizeDescription": "Beskrivelse",
+        "prizeValue": "Premieverdi",
+        "paytableWager": "Pris:",
+        "endBonus": "SPINN IGJEN"
+    }
+}

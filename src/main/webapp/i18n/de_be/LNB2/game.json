@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Benötigen Sie Sound?"
+    },
+    "title": "SPORTS SPECTACULAR",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+        "RTPrangeStatic": "85,00 % bis 93,00 %",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "SPIELANLEITUNG",
+            "name": "SPORTS SPECTACULAR",
+            "payTable": "Legende",
+            "price": "Einsatz",
+            "stake": "Einsatz",
+            "balance": "SALDO:",
+            "prizeDivision": "Legende",
+            "prizeValue": "Legende",
+            "approximatePrize": "Geschätzter verbleibender Preis",
+            "oddsPerPlay": "Chancen pro Spiel",
+            "overAllOdds": "Die Chance, bei einem Spiel einen Preis zu gewinnen, beträgt insgesamt 1 zu {oddNum}",
+            "availablePrices": "Verfügbare Preispunkte: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "SPIELANLEITUNG",
+            "name": "SPORTS SPECTACULAR",
+            "payTable": "Legende",
+            "price": "Einsatz",
+            "stake": "Einsatz",
+            "balance": "SALDO:"
+        },
+        "audio":
+        {
+            "on": "Ein",
+            "off": "Aus",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fehler:29000\n\nEs ist ein interner Fehler aufgetreten.\nSpiel BEENDEN und neu starten."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "SPIELANLEITUNG",
+            "tutorialPage": "Sie haben 6 Spielrunden. {n} Entdecken Sie in dem durch 3 leuchtende Pfeile hervorgehobenen Teil des Rads 3 Bälle im äußeren Segment. {n} Multiplizieren Sie diese Bälle dann, indem Sie im mittleren Segment ein {T01} oder {T02} entdecken. {n} Sammeln Sie so viele Bälle, wie in der Legende angegeben sind, um einen Gewinn zu erhalten.",
+            "tutorialPage01": "Decken Sie in dem durch 3 leuchtende Pfeile hervorgehobenen Teil des Rades ein {T03} auf, um den Auswahlbereich auf 5 Bälle auf dem äußeren Segment zu erweitern. {n} Decken Sie ein {T04} auf, um eine zusätzliche Spielrunde zu gewinnen. {n} Decken Sie ein {T05} auf, um einen Sofortgewinn zu erhalten. {n} Sammeln Sie 5 {T06} in der Legende, um zum Extra-Spiel zu gelangen.",
+            "tutorialPage02": "Beginnen Sie das Extra-Spiel mit 3 Spielrunden. {n} Sammeln Sie mindestens 4 {T06} in der Legende, um einen Gewinn zu erhalten. {n} Bei jeder Spielrunde wird, sofern ein zusätzliches {T06} gesammelt wird, die Anzahl der verbleibenden Runden auf 3 zurückgesetzt. {n} Spielen Sie so lange weiter, bis keine Spielrunde mehr übrig ist oder alle 16 {T06} gesammelt wurden."
+        },
+        "BONUS": "EXTRA",
+        "totalbonuswin": "EXTRA-GEWINN",
+        "IWText": "WÄHLEN SIE EINE MEDAILLE",
+        "bonuswin": "EXTRA-GEWINN",
+        "find": "GESAMMELT",
+        "win": "GEWINN",
+        "demo": "DEMO ",
+        "spin_Left": "ÜBRIGE\nRUNDE(N)",
+        "autospin": "ALLES AUFDECKEN",
+        "button_buy": "KAUFEN",
+        "button_try": "DEMO",
+        "button_spin": "DREHEN",
+        "button_move2moneyGame": "KAUFEN",
+        "button_autoPlay": "ALLES AUFDECKEN",
+        "button_playAgain": "KAUFEN",
+        "button_MTMPlayAgain": "DEMO",
+        "button_retry": "KAUFEN",
+        "button_stop": "STOPPEN",
+        "wager": "EINSATZ",
+        "meter_wager": "EINSATZ ",
+        "balance": "SALDO: ",
+        "wins": "GEWINN",
+        "wins_demo": "DEMO-GEWINN",
+        "message_nonWin01": "BEIM NÄCHSTEN MAL",
+        "message_nonWin02": "MEHR GLÜCK!",
+        "message_buyWin": "GESAMTGEWINNBETRAG",
+        "message_tryWin": "GESAMTGEWINNBETRAG BEI DEMO",
+        "message_anonymousTryWin": "GESAMTGEWINNBETRAG BEI DEMO",
+        "message_close": "OK",
+        "button_exit": "ABBRECHEN",
+        "session_timeout_warning_exit_button": "ABBRECHEN",
+        "error_button_exit": "ABBRECHEN",
+        "warning_button_continue": "WEITER",
+        "warning_button_exitGame": "ABBRECHEN",
+        "warning_title": "ACHTUNG",
+        "error_title": "FEHLER",
+        "win_up_to": "GEWINNEN SIE BIS ZU",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPIELANLEITUNG",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Legende",
+        "prizeDescription": "Beschreibung",
+        "prizeValue": "Legende",
+        "paytableWager": "Einsatz:",
+        "endBonus": "ÜBRIGE\nRUNDE(N)"
+    }
+}
